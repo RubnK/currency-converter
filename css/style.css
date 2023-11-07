@@ -1,0 +1,36 @@
+body{
+    background-color: #101728;
+	font-family: 'Quicksand', sans-serif;
+}
+form{
+	display: flex;
+	flex-direction: column;
+	width: 15rem;
+	background-color: white;
+	padding: 4rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+	color: black;
+	margin: auto;
+	margin-bottom: 3rem;
+}
+select{
+	height: 2rem;
+	font-family: 'Quicksand', sans-serif;
+}
+label{
+	margin-top:1rem;
+	margin-bottom: .3rem;
+}
+.conversion{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+p{
+    color: white;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
