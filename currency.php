@@ -12,8 +12,7 @@ $response = json_decode($response_json); // decode JSON content
 if(empty($_POST['somme'])){
     $_POST['somme']=1; // set base amount
 }
-$base_price = $_POST['somme']; 
-$price = round(($base_price * $response->conversion_rates->{$_POST['to']}), 2); // calcul amount in set currency
+$price = round(($_POST['somme'] * $response->conversion_rates->{$_POST['to']}), 2); // calcul amount in set currency
 ?>
 
 <style>
