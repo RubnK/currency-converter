@@ -7,7 +7,7 @@ This PHP script is a currency converter that utilizes the ExchangeRate-API to pr
 
 ## Prerequisites
 To use this script, you will need:
-- PHP installed on your server or local environment.
+- Apache installed on your server or local environment.
 - An API key from ExchangeRate-API (https://www.exchangerate-api.com/) - Sign up on their website to obtain the API key.
 
 ## Setup
