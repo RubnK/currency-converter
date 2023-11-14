@@ -1,9 +1,16 @@
 # PHP Currency Converter using ExchangeRate-API
 
+**Author : [@RubnK](https://github.com/RubnK)**
+
 This PHP script is a currency converter that utilizes the ExchangeRate-API to provide accurate and up-to-date currency exchange rates. This enables users to convert between different currencies using current market rates.
 
-## Author
-- [@RubnK](https://www.github.com/RubnK)
+## Table of content
+
+- [Prerequisites](#Prerequisites)
+- [Setup](#Setup)
+- [Configuration](#Configuration)
+- [Screenshots](#Screenshots)
+- [Contributing](#Contributing)
 
 ## Prerequisites
 To use this script, you will need:
@@ -27,3 +34,6 @@ $api_key = 'YOUR_EXCHANGERATE_API_KEY';
 
 ## Screenshots
 ![image](https://github.com/RubnK/currency-converter/assets/40402492/17671767-01d7-4677-b2a6-38d6732518e6)
+
+## Contributing
+Feel free to contribute to the project by submitting issues or pull requests.
